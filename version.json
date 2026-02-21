@@ -1,0 +1,7 @@
+{
+    "latest_version": "4.5",
+    "download_url": "https://raw.githubusercontent.com/jxjx24no/douxing-ai/main/豆星_core.py",
+    "description": "远程迭代版：支持远程自动版本更新、备份与回滚，无需手动替换代码",
+    "update_time": "2026-02-21 22:00:00",
+    "file_hash": ""
+}
